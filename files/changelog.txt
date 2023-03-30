@@ -1,0 +1,75 @@
+v2.0 (public)
++ Completed the code refactoring
++ Removed all deprecated patterns
++ Jump to 2.0.0.0 version!
++ Added new patterns
++ Added function for removing digital cert
++ Fixed check PE
++ Changed the file extension from .BAK to .DEL
++ Updated app list [2016]
+
+v1.5 (public)
+- Added CC 2015 apps
+- Fixed x86 pattern
+- Fixed Acrobat 9 pattern
+- Removed non complete\bugged items (will be restored later)
+
+v1.4 (public, by users request)
++ Update app list (added Dreamweaver CC 2014.1, Acrobat 9)
++ Fixed Bridge CC patch
++ Fixed CC 2014 path's
+
+v1.3 (private)
++ Fixed HiDPI support (96/120/144 dpi)
++ Fixed PE check (v2)
++ Fixed patterns
++ Fixed dialog position
+
+v1.2 (public)
++ Update app list (more friendly).
++ Added missing app (Flash Builder 4.7 32-bit).
+
+v1.1 (public)
++ Added new amtlib (2014) patterns.
++ Added Adobe CC2014 apps to list.
++ Changed Media Encoder patch (test features, possible bug's ; test : ok).
+
+v1.09 (private)
++ Added Lightroom 5.4 to list. 
+
+v1.08 (private)
++ Fixed HiDPI list font.
+
+v1.07 (private)
++ ReWrited patcher code.
++ Fixed PE check.
+
+v1.06 (public)
++ Added Search'n'Replace Engine (dUP).
++ Updated all patterns.
++ Added flash disassembler and builder.
+- Removed banknote protection patch.
+- Removed 'Photoshop (13.1.2) Windows XP Support' patch.
+- Removed AAM to UMT patch.
+
+v1.05 (private)
++ Fixed skined items. 
+
+v1.04 (private)
++ Drawed Adobe skin (Beta).
++ Added AAM (7.0.0.427) to UMT patch.
++ Added banknote protection patch.
++ Added 'Photoshop (13.1.2) Windows XP Support' patch.
+
+v1.03 (private)
++ Added 'Patch another product with amtlib' item to list.
+
+v1.02 (private)
++ Added Lightroom 3.x-4.x apps to list.
++ Added Photoshop Elements v9-12 apps to list.
+
+v1.01 (private)
++ Added CS5.5 apps to list.
+
+v1.00 (private)
++ Included CS4, CS5, CS6 apps patterns.
